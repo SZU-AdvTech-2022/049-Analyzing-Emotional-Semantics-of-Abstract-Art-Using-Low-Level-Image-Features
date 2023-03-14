@@ -1,0 +1,6 @@
+@article{REPO-049,
+    author = "He, Z. and Augilius, E. and Honkela, T. and Laaksonen, J. and Gamper, H. and Alene, H.",
+    journal = "Springer, Berlin, Heidelberg",
+    title = "{Analyzing Emotional Semantics of Abstract Art Using Low-Level Image Features}",
+    year = "2011"
+}
